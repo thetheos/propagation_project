@@ -4,7 +4,7 @@
 # Attenuation due to clouds results are sorted acording to the site identification number:
 #    _ 1 = Lavrion 75GHz (Lat = 3.7720e+01 deg, Lon = 2.4048e+01 deg, Alt = 2.0000e-02 km)
 # Stored values are organised as follow:
-# Site number, Satellite number, Frequency (GHz), Elevation angle (deg), Elevation probability (), Time exceeded (%), hr (km), R001 (mm/h), k, alpha, att_rain (dB)
+Site_number,Satellite_number,Frequency_GHz,Elevation_angle_deg,Elevation_probability,Time_exceeded_%,hr_km,R001_mm_h,k,alpha,att_rain_dB
 1, 1, 7.5000e+01, 5.0000e+00, 1.0000e+00, 1.0000e-02, 2.4385e+00, 5.1365e+01, 1.1024e+00, 7.1656e-01, 2.2016e+02
 1, 1, 7.5000e+01, 5.0000e+00, 1.0000e+00, 1.6000e-02, 2.4385e+00, 5.1365e+01, 1.1024e+00, 7.1656e-01, 1.9340e+02
 1, 1, 7.5000e+01, 5.0000e+00, 1.0000e+00, 2.7000e-02, 2.4385e+00, 5.1365e+01, 1.1024e+00, 7.1656e-01, 1.6456e+02
