@@ -1,6 +1,5 @@
 .vscode
 data_zip
 weather.txt
-Python Scripts/weather.txt
 *.txt
 pdf.pkl
